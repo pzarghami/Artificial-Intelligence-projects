@@ -1,5 +1,5 @@
 # goodReads
-This project is for the Advance Programming course
+This project is for the Advanced Programming course
 
 The purpose of this project is to familiarize with the basic concepts of object-oriented design of a problem.
 In this project, we analyze data extracted from the Goodreads website.
