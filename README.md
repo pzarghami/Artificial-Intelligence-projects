@@ -1,6 +1,14 @@
-# goodReads
-This project is for the Advanced Programming course
+#Artificial-Intelligence-projects
+CA0: Introduction to Numpy, Pandas, Matplotlib Libraries
 
-The purpose of this project is to familiarize with the basic concepts of object-oriented design of a problem.
-In this project, we analyze data extracted from the Goodreads website.
-At first, our program reads and analyzes the given data and stores them in its memory. Then, based on what it receives from the standard input stream, it displays information corresponding to each command
+CA1: Implementation of Search Algorithms (BFS, IDS, A*, weighted A* )
+
+CA2: This project contains two assignment. 1.Implementation of Sudoku solver with Genetic Algorithm 2.implementation of checkers with minimax algorithm
+
+CA3: Analysis of Divar site ads with Naive Bayes Classifier
+
+CA4: Predict the type of Netflix films and series with Decision Tree and Random Forest
+
+CA5: Implementation of a FeedForward Neural Network and predict type of animals
+
+CA6: Predict the type of animals with Keras Library
