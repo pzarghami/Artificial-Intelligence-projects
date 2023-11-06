@@ -1,9 +1,9 @@
-#Artificial-Intelligence-projects
+# Artificial-Intelligence-projects
 CA0: Introduction to Numpy, Pandas, Matplotlib Libraries
 
 CA1: Implementation of Search Algorithms (BFS, IDS, A*, weighted A* )
 
-CA2: This project contains two assignment. 1.Implementation of Sudoku solver with Genetic Algorithm 2.implementation of checkers with minimax algorithm
+CA2: This project contains two assignments. 1.Implementation of Sudoku solver with Genetic Algorithm 2.implementation of checkers with minimax algorithm
 
 CA3: Analysis of Divar site ads with Naive Bayes Classifier
 
